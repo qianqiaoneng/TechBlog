@@ -16,4 +16,6 @@ Slider本质上一个定制过的YARN的Application Master，只不过这个appl
 
 ...
 
+
+
 Apache, Hadoop, Slider and the Hadoop elephant and Apache project logos are either registered trademarks or trademarks of the [Apache Software Foundation](http://www.apache.org/) in the United States or other countries.
